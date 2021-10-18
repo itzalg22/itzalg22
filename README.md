@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I, He, Sir, Mr, Spoiler
 - ⚡ Fun fact: ...
 
-**itzalg22/itzalg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=itzalg22&show_icons=true&icon_color=0366d6&bg_color=0d1117&text_color=ffffff&hide_title=false" alt="GitHub Stats for Itzhal Gamliel (itzalg22)">
 
