@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for a job as a full-stack developer.
 - 📫 How to reach me: Feel free to send me a message via [Facebook](https://www.facebook.com/itzal.gamliel/)
 - 😄 Pronouns: I, He, Sir, Mr, Spoiler
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: If I worked at Instagram, I would cancel the comment option to make the platform more focused at sharing photos and videos.
 
 
 
